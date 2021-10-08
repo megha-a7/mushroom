@@ -14,4 +14,17 @@ This is a hands-on project on building a machine learning web app with the Strea
 - Train a Logistic Regression Classifier
 - Training a Random Forest Classifier
 
+### Adding a Streamlit button on Github
+
+#### requirements.txt 
+To add a requirement.txt file, run
+pip freeze > requirements.txt
+
+#### deployment 
+Deploy your streamlit app at - https://share.streamlit.io/
+
+#### Adding a streamlit button 
+After the deployment of streamlit app on the streamlit share server, in the README.md file type - [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/yourGitHubName/yourRepo/yourApp/).
+Include your streamlit url in the later section. 
+
 
