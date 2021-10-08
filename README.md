@@ -24,7 +24,7 @@ pip freeze > requirements.txt
 Deploy your streamlit app at - https://share.streamlit.io/
 
 #### Adding a streamlit button 
-After the deployment of streamlit app on the streamlit share server, in the README.md file type - [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/yourGitHubName/yourRepo/yourApp/).
+After the deployment of streamlit app on the streamlit share server, in the README.md file type - ```[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/yourGitHubName/yourRepo/yourApp/)```.
 Include your streamlit url in the later section. 
 
 
