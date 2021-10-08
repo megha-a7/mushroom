@@ -12,3 +12,7 @@ This is a hands-on project on building a machine learning web app with the Strea
 - Training a Support Vector Classifier
 - Train a Logistic Regression Classifier
 - Training a Random Forest Classifier
+
+
+#### Adding the streamlit play button 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/megha-a7/mushroom_classification_streamlit/app.py)
