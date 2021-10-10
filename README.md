@@ -1,7 +1,7 @@
 # mushroom_classification_streamlit
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/megha-a7/mushroom_classification_streamlit/app.py)
 ## Build a Machine Learning Web App with Streamlit and Python
-### Instructor ~ Snehan Kekre
+
 
 This is a hands-on project on building a machine learning web app with the Streamlit library in Python.
 
