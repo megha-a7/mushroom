@@ -1,4 +1,6 @@
 # mushroom_classification_streamlit
+![Capture](https://user-images.githubusercontent.com/82528894/136702489-806d3399-ece3-4ccd-bf65-7d6d03bb1f23.JPG)
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/megha-a7/mushroom_classification_streamlit/app.py)
 ## Build a Machine Learning Web App with Streamlit and Python
 
